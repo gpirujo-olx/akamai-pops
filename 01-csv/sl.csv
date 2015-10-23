@@ -1,0 +1,2 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+197.157.232.138,dynamic-197-157-232-138.limeline.sl.,SL,"","",,false,0.92,2015-10-22 22:15:25 +0200,2015-01-11 10:52:57 +0100

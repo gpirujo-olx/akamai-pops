@@ -1,0 +1,5 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+202.59.5.1,UNASSIGNED-202-59-5-1.niue.nu.,NU,"",dnsmasq-2.68,,false,0.94,2015-10-22 17:52:42 +0200,2015-01-01 06:23:59 +0100
+202.59.5.2,UNASSIGNED-202-59-5-2.niue.nu.,NU,"",dnsmasq-2.45,,false,0.92,2015-10-22 17:52:41 +0200,2015-01-01 06:24:00 +0100
+202.59.5.121,UNASSIGNED-202-59-5-121.niue.nu.,NU,"",dnsmasq-2.45,,true,0.92,2015-10-22 17:52:41 +0200,2015-01-01 06:43:28 +0100
+202.59.5.130,govnet.niue.nu.,NU,"",dnsmasq-2.45,,true,0.92,2015-10-22 17:52:41 +0200,2015-01-01 06:43:33 +0100

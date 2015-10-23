@@ -1,0 +1,5 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+179.51.252.11,"",BZ,Belize City,dnsmasq-2.72,,false,0.8,2015-10-23 00:43:29 +0200,2014-12-29 18:27:31 +0100
+200.32.230.84,span-access-dsl-84.btl.net.,BZ,Belize City,dnsmasq-2.70,,false,1.0,2015-10-22 18:20:09 +0200,2015-01-06 09:05:33 +0100
+200.32.223.178,"",BZ,Belize City,Microsoft DNS 6.1.7601 (1DB14556),,false,0.97,2015-10-22 18:37:48 +0200,2015-01-06 16:47:30 +0100
+186.65.88.10,"",BZ,"",dnsmasq-2.33,,true,0.99,2015-10-22 20:36:19 +0200,2015-01-09 04:28:44 +0100

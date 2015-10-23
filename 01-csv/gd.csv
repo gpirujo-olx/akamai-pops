@@ -1,0 +1,5 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+216.110.113.140,216-110-113-140.static.caribsurf.com.,GD,"",[secured],,false,1.0,2015-10-23 01:27:35 +0200,2014-12-30 10:15:53 +0100
+216.110.114.137,216-110-114-137.static.caribsurf.com.,GD,"",9.8.2rc1-RedHat-9.8.2-0.17.rc1.el6_4.4,,false,0.99,2015-10-23 01:52:58 +0200,2014-12-30 14:15:04 +0100
+216.110.114.73,216-110-114-73.static.caribsurf.com.,GD,"",[secured],,false,1.0,2015-10-23 01:55:22 +0200,2014-12-30 14:37:03 +0100
+205.214.211.163,205-214-211-163.static.caribsurf.com.,GD,"",[secured],,false,0.97,2015-10-22 18:40:45 +0200,2015-01-06 18:05:42 +0100

@@ -1,0 +1,4 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+41.79.124.10,"",CV,"",PowerDNS Recursor 3.7.1 (jenkins@autotest.powerdns.com built 20150212101941 jenkins@autotest.powerdns.com),,false,1.0,2015-10-22 19:14:10 +0200,2015-01-07 10:42:57 +0100
+41.79.124.9,"",CV,"",PowerDNS Recursor 3.7.1 (jenkins@autotest.powerdns.com built 20150212101941 jenkins@autotest.powerdns.com),,false,1.0,2015-10-22 19:15:12 +0200,2015-01-07 11:10:51 +0100
+41.221.192.166,ns2.cvtelecom.cv.,CV,"","",,false,1.0,2015-10-22 23:23:56 +0200,2015-03-17 21:02:01 +0100

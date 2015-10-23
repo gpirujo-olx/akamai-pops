@@ -1,0 +1,2 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+195.94.2.226,"",YE,"",8.2.4-REL-NT2,,false,0.37,2015-10-22 18:23:06 +0200,2015-01-06 10:27:59 +0100

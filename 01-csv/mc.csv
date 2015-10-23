@@ -1,0 +1,4 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+195.20.192.11,hera.gf-net.com.,MC,"",9.2.1,,false,0.7,2015-10-22 23:46:59 +0200,2013-04-23 02:31:05 +0200
+195.20.193.11,zeus.gf-net.com.,MC,"",9.7.1-P2,,false,1.0,2015-10-22 23:46:53 +0200,2013-04-23 02:31:05 +0200
+88.209.87.164,164.87.209.88.static.monaco.mc.,MC,"","",,true,0.56,2015-10-23 02:18:11 +0200,2014-12-30 18:32:23 +0100

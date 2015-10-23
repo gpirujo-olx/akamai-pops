@@ -1,0 +1,5 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+208.94.176.73,"",VC,Kingstown,"",,false,0.99,2015-10-23 00:18:45 +0200,2014-12-29 15:34:17 +0100
+69.80.58.181,"",VC,Kingstown,Microsoft DNS 6.0.6002 (1772487D),,false,0.99,2015-10-23 02:11:21 +0200,2014-12-30 17:07:25 +0100
+192.58.140.165,"",VC,Kingstown,dnsmasq-2.40,,false,0.97,2015-10-22 21:24:50 +0200,2015-01-10 07:45:32 +0100
+207.191.246.95,"",VC,Kingstown,dnsmasq-2.45,,false,0.96,2015-10-22 22:01:47 +0200,2015-01-11 02:34:14 +0100

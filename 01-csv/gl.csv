@@ -1,0 +1,4 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+46.16.17.71,ns2.hosting.inuit.gl.,GL,Nuuk,Microsoft DNS 6.1.7601 (1DB1446A),,false,0.98,2015-10-22 17:52:34 +0200,2015-01-01 04:15:36 +0100
+46.16.17.88,"",GL,Nuuk,Microsoft DNS 6.1.7601 (1DB1446A),,false,0.98,2015-10-22 17:52:34 +0200,2015-01-01 04:15:37 +0100
+46.16.17.175,"",GL,Nuuk,"",,false,0.98,2015-10-22 17:52:34 +0200,2015-01-01 04:15:37 +0100

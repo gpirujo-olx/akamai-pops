@@ -1,0 +1,3 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+154.72.112.13,"",BJ,"","",,false,0.95,2015-10-23 00:00:22 +0200,2014-12-29 13:33:18 +0100
+41.85.184.102,"",BJ,"",unbound 1.4.17,,false,0.97,2015-10-22 19:32:30 +0200,2015-01-07 19:51:09 +0100

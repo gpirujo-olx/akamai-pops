@@ -1,0 +1,3 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+119.252.118.4,wcpfc-cpe.vdsl.fsmtc.fm.,FM,"",unavailable,,false,1.0,2015-10-23 02:28:35 +0200,2014-12-31 18:46:13 +0100
+119.252.118.16,health.vdsl.fsmtc.fm.,FM,"",unavailable,,false,1.0,2015-10-23 02:28:35 +0200,2014-12-31 18:46:25 +0100

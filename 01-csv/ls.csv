@@ -1,0 +1,2 @@
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+64.57.112.6,hyper.leo.co.ls.,LS,Maseru,"",,false,0.09,2015-10-22 21:48:28 +0200,2015-01-10 18:54:07 +0100
