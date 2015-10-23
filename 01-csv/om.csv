@@ -1,17 +1,2 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>500 Internal Server Error</title>
-</head><body>
-<h1>Internal Server Error</h1>
-<p>The server encountered an internal error or
-misconfiguration and was unable to complete
-your request.</p>
-<p>Please contact the server administrator,
- [no address given] and inform them of the time the error occurred,
-and anything you might have done that may have
-caused the error.</p>
-<p>More information about this error may be available
-in the server error log.</p>
-<hr>
-<address>Apache/2 Server at public-dns.tk Port 80</address>
-</body></html>
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+85.154.240.85,i85.240.154.85.omantel.net.om.,OM,"",Microsoft DNS 6.1.7601 (1DB14556),,false,0.73,2015-10-23 00:07:23 +0200,2014-12-29 14:30:04 +0100

@@ -1,17 +1,9 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>500 Internal Server Error</title>
-</head><body>
-<h1>Internal Server Error</h1>
-<p>The server encountered an internal error or
-misconfiguration and was unable to complete
-your request.</p>
-<p>Please contact the server administrator,
- [no address given] and inform them of the time the error occurred,
-and anything you might have done that may have
-caused the error.</p>
-<p>More information about this error may be available
-in the server error log.</p>
-<hr>
-<address>Apache/2 Server at public-dns.tk Port 80</address>
-</body></html>
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+196.41.225.10,"",DZ,Cheraga,"",,false,0.99,2015-10-22 23:49:05 +0200,2014-05-19 05:47:22 +0200
+196.41.225.11,"",DZ,Cheraga,"",,false,1.0,2015-10-22 23:49:06 +0200,2014-05-19 05:47:22 +0200
+196.41.228.47,"",DZ,Cheraga,Microsoft DNS 6.1.7601 (1DB14556),,false,0.98,2015-10-22 23:51:03 +0200,2014-12-27 15:24:24 +0100
+81.52.166.190,bentmsrv2.bentini.dz.,DZ,"",Microsoft DNS 6.1.7601 (1DB14556),,false,1.0,2015-10-23 00:03:47 +0200,2014-12-29 14:04:50 +0100
+81.52.169.78,mail.esaa.dz.,DZ,"",9.7.0-P1,,false,0.99,2015-10-23 00:31:22 +0200,2014-12-29 16:40:37 +0100
+81.52.169.254,mailwx.kougc.dz.,DZ,"","",,false,0.95,2015-10-23 01:47:12 +0200,2014-12-30 13:31:24 +0100
+41.110.8.149,"",DZ,"",Version: main/17936,,false,0.99,2015-10-22 20:59:00 +0200,2015-01-09 16:13:05 +0100
+41.77.178.219,178.77.41-wimax.slc.dz.,DZ,"",Microsoft DNS 6.1.7601 (1DB14556),,false,0.95,2015-10-22 22:49:07 +0200,2015-01-12 03:39:21 +0100

@@ -1,17 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>500 Internal Server Error</title>
-</head><body>
-<h1>Internal Server Error</h1>
-<p>The server encountered an internal error or
-misconfiguration and was unable to complete
-your request.</p>
-<p>Please contact the server administrator,
- [no address given] and inform them of the time the error occurred,
-and anything you might have done that may have
-caused the error.</p>
-<p>More information about this error may be available
-in the server error log.</p>
-<hr>
-<address>Apache/2 Server at public-dns.tk Port 80</address>
-</body></html>
+ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
+154.73.108.10,ns1.firstnet.ly.,LY,"",Microsoft DNS 6.1.7600 (1DB04001),,false,0.98,2015-10-23 00:07:10 +0200,2014-12-29 14:29:17 +0100
+41.208.68.46,41.208.68.46.static.ltt.ly.,LY,"","",,false,0.44,2015-10-22 18:04:58 +0200,2015-01-06 01:35:33 +0100
+41.208.68.62,41.208.68.62.static.ltt.ly.,LY,"","",,false,0.97,2015-10-22 18:26:52 +0200,2015-01-06 12:08:13 +0100
+41.208.68.61,41.208.68.61.static.ltt.ly.,LY,"","",,false,0.45,2015-10-22 18:27:53 +0200,2015-01-06 12:35:58 +0100
