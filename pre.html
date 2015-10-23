@@ -11,6 +11,7 @@
         width: 100%;
         height: 100vh;
       }
+      #banner { position: absolute; bottom: 0px; padding: 10px; background-color: black; color: white; }
     </style>
 
     <script src="https://maps.googleapis.com/maps/api/js"></script>
@@ -25,4 +26,5 @@
           mapTypeId: google.maps.MapTypeId.ROADMAP
         });
 
+        var reserved = -15;
         var markers = [
