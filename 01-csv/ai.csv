@@ -1,2 +1,2 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-204.14.249.58,cpe-58-249-14-204.caribcable.com.,AI,George Hill,Microsoft DNS 6.1.7601 (1DB14556),,false,0.99,2015-10-22 19:21:13 +0200,2015-01-07 14:12:16 +0100
+204.14.249.58,cpe-58-249-14-204.caribcable.com.,AI,George Hill,Microsoft DNS 6.1.7601 (1DB14556),,false,0.99,2015-10-29 15:45:29 +0100,2015-01-07 14:12:16 +0100

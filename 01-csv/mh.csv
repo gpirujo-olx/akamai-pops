@@ -1,2 +1,2 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-117.103.93.193,nta-ip-117.103.93.193.dynamic.ntamar.net.,MH,"","",,true,0.83,2015-10-23 01:20:44 +0200,2014-12-30 01:19:51 +0100
+117.103.93.193,nta-ip-117.103.93.193.dynamic.ntamar.net.,MH,"","",,true,0.93,2015-10-29 12:59:01 +0100,2014-12-30 01:19:51 +0100

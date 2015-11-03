@@ -1,3 +1,4 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-162.255.216.44,"",BM,Hamilton,"",,false,1.0,2015-10-22 17:58:06 +0200,2015-01-05 21:45:24 +0100
-66.55.121.162,connectn.mercury.bm.,BM,Hamilton,"",,false,0.99,2015-10-22 23:07:08 +0200,2015-01-12 14:43:57 +0100
+162.255.216.44,"",BM,Hamilton,"",,false,0.99,2015-10-29 14:24:00 +0100,2015-01-05 21:45:24 +0100
+66.55.121.162,connectn.mercury.bm.,BM,Hamilton,"",,false,0.99,2015-10-29 10:47:36 +0100,2015-01-12 14:43:57 +0100
+69.17.194.74,ns2.gateway.bm.,BM,"",Microsoft DNS 6.0.6002 (1772487D),,false,0.85,2015-10-29 10:47:47 +0100,2015-01-12 14:51:53 +0100

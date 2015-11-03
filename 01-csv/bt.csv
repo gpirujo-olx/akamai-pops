@@ -1,2 +1,2 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-119.2.120.12,host12.cdb.druknet.bt.,BT,Thimphu,Microsoft DNS 6.0.6002 (1772487D),,false,0.92,2015-10-22 21:03:16 +0200,2015-01-09 18:49:03 +0100
+119.2.120.12,host12.cdb.druknet.bt.,BT,Thimphu,Microsoft DNS 6.0.6002 (1772487D),,false,0.95,2015-10-29 08:45:35 +0100,2015-01-09 18:49:03 +0100

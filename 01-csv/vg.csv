@@ -1,2 +1,3 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-98.158.96.96,u0013de0.101.dc5.eq.ash.va.us.iptp.net.,VG,Road Town,powerdns2,,false,1.0,2015-10-23 02:22:14 +0200,2014-12-30 19:21:23 +0100
+209.59.121.92,jost.bvifsc.vg.,VG,Road Town,"",,false,0.97,2015-10-29 13:27:17 +0100,2014-12-30 13:48:36 +0100
+98.158.96.96,u0013de0.101.dc5.eq.ash.va.us.iptp.net.,VG,Road Town,powerdns2,,false,0.99,2015-10-29 13:59:40 +0100,2014-12-30 19:21:23 +0100

@@ -1,2 +1,1 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-103.30.248.6,portal.palauwifi.com.,PW,"",9.10-P2,,false,0.56,2015-10-22 17:52:54 +0200,2015-01-02 17:45:46 +0100

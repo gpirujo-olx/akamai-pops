@@ -1,7 +1,7 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-190.80.28.178,ns11.gwi.gy.,GY,Georgetown,"",,false,1.0,2015-10-23 01:34:48 +0200,2014-12-30 11:41:55 +0100
-190.80.28.192,unnamed.gtt.co.gy.,GY,Georgetown,Microsoft DNS 6.1.7601 (1DB14556),,false,0.88,2015-10-23 01:36:04 +0200,2014-12-30 11:51:36 +0100
-190.80.116.30,30-116-pool.dsl.gol.net.gy.,GY,Georgetown,"",,false,0.97,2015-10-22 18:37:45 +0200,2015-01-06 16:46:22 +0100
-190.80.48.248,248-48-pool.dsl.gol.net.gy.,GY,Georgetown,"",,false,1.0,2015-10-22 21:17:30 +0200,2015-01-10 03:16:53 +0100
-190.124.220.41,41.220.124.190-isp.enetworksgy.com.,GY,Georgetown,dnsmasq-2.45,,true,1.0,2015-10-22 21:49:28 +0200,2015-01-10 19:24:15 +0100
-190.108.199.1,1.199.108.190-cust.enetworksgy.com.,GY,Georgetown,"",,false,0.96,2015-10-22 22:40:40 +0200,2015-01-11 23:36:49 +0100
+190.80.28.178,ns11.gwi.gy.,GY,Georgetown,"",,false,0.99,2015-10-29 13:12:48 +0100,2014-12-30 11:41:55 +0100
+190.80.28.192,unnamed.gtt.co.gy.,GY,Georgetown,Microsoft DNS 6.1.7601 (1DB14556),,false,0.85,2015-10-29 13:13:59 +0100,2014-12-30 11:51:36 +0100
+190.80.116.30,30-116-pool.dsl.gol.net.gy.,GY,Georgetown,"",,false,0.99,2015-10-29 15:02:46 +0100,2015-01-06 16:46:22 +0100
+190.80.48.248,248-48-pool.dsl.gol.net.gy.,GY,Georgetown,"",,false,1.0,2015-10-29 08:59:41 +0100,2015-01-10 03:16:53 +0100
+190.124.220.41,41.220.124.190-isp.enetworksgy.com.,GY,Georgetown,dnsmasq-2.45,,true,1.0,2015-10-29 09:31:18 +0100,2015-01-10 19:24:15 +0100
+190.108.199.1,1.199.108.190-cust.enetworksgy.com.,GY,Georgetown,"",,false,0.96,2015-10-29 10:21:18 +0100,2015-01-11 23:36:49 +0100

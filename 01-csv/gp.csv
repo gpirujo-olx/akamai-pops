@@ -1,2 +1,2 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-199.91.162.6,"",GP,"",dnsmasq-2.27,,true,1.0,2015-10-23 01:49:47 +0200,2014-12-30 13:51:31 +0100
+199.91.162.6,"",GP,"",dnsmasq-2.27,,true,0.98,2015-10-29 13:27:39 +0100,2014-12-30 13:51:31 +0100

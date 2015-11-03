@@ -1,2 +1,2 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-203.98.228.115,host115-228.cenpac.net.nr.,NR,"","",,false,0.96,2015-10-22 17:52:51 +0200,2015-01-02 17:57:35 +0100
+203.98.228.115,host115-228.cenpac.net.nr.,NR,"","",,false,0.95,2015-10-29 14:18:51 +0100,2015-01-02 17:57:35 +0100

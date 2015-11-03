@@ -1,2 +1,2 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-105.235.237.242,105-235-237-242.malabo.guineanet.net.,GQ,"","",,false,0.72,2015-10-23 01:33:53 +0200,2014-12-30 11:30:59 +0100
+197.149.168.76,"",GQ,"",Microsoft DNS 6.0.6001 (17714726),,false,0.44,2015-10-29 07:28:16 +0100,2015-01-08 01:30:29 +0100

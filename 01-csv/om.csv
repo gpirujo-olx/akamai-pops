@@ -1,2 +1,3 @@
 ip,name,country_id,city,version,error,dnssec,reliability,checked_at,created_at
-85.154.240.85,i85.240.154.85.omantel.net.om.,OM,"",Microsoft DNS 6.1.7601 (1DB14556),,false,0.73,2015-10-23 00:07:23 +0200,2014-12-29 14:30:04 +0100
+85.154.240.85,i85.240.154.85.omantel.net.om.,OM,"",Microsoft DNS 6.1.7601 (1DB14556),,false,0.73,2015-10-29 11:47:16 +0100,2014-12-29 14:30:04 +0100
+82.178.254.207,"",OM,"","",,false,0.01,2015-10-29 11:54:05 +0100,2014-12-29 15:11:02 +0100
