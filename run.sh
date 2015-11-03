@@ -3,8 +3,8 @@ find 02-reliable-dns -name \*.txt -exec wc -l '{}' ';' | sort -n | while read co
 do
     country=$(basename $file .txt)
     echo "Querying $count servers in $country"
-    #sh 01_download_server_list.sh $country
-    #sh 02_filter_server_list.sh   $country
+    sh 01_download_server_list.sh $country
+    sh 02_filter_server_list.sh   $country
     sh 03_query_servers.sh        $country
 done
 
